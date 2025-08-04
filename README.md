@@ -9,6 +9,15 @@
   
 - 📫 How to reach me **ileana.saintpaul@gmail.com**
 
+#### 📊 GitHub Stats:
+
+<div align="center">
+
+  ![](https://github-readme-stats.vercel.app/api?username=ileanasaintpaul&theme=neon&hide_border=true&include_all_commits=false&count_private=false)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ileanasaintpaul&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
 #### 💻 Tech Stack :
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
