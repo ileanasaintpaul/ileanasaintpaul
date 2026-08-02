@@ -1,12 +1,12 @@
 <img width="100%" src="./assets/header.svg" alt="ILEANA in pixel letters over falling green code" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Angular+on+the+front%2C+C%23+on+the+back;Building+full+stack+apps+with+.NET;Making+games+with+Unity+on+the+side" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=560&lines=%3E+Angular+on+the+front%2C+C%23+on+the+back;%3E+Building+full+stack+apps+with+.NET;%3E+Making+games+with+Unity+on+the+side" alt="Typing intro" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ileana-saint-paul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ileana.saintpaul@gmail.com"><img src="https://img.shields.io/badge/Email-26a641?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ileana-saint-paul"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
+  <a href="mailto:ileana.saintpaul@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
 </p>
 
 <h3 align="center">Stack</h3>
