@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:006d32,100:39d353&height=220&section=header&text=Ileana&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full%20stack%20developer%20%C2%B7%20Angular%20%2F%20C%23%20%C2%B7%20Toulouse&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=220&section=header&text=Ileana&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full%20stack%20developer%20%C2%B7%20Angular%20%2F%20C%23%20%C2%B7%20Toulouse&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Angular+on+the+front%2C+C%23+on+the+back;Building+full+stack+apps+with+.NET;Making+games+with+Unity+on+the+side" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&lines=Angular+on+the+front%2C+C%23+on+the+back;Building+full+stack+apps+with+.NET;Making+games+with+Unity+on+the+side" alt="Typing intro" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ileana-saint-paul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ileana.saintpaul@gmail.com"><img src="https://img.shields.io/badge/Email-26a641?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ileana.saintpaul@gmail.com"><img src="https://img.shields.io/badge/Email-bb9af7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <h3 align="center">Stack</h3>
@@ -22,14 +22,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ileanasaintpaul/Moonbrew"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ileanasaintpaul&repo=Moonbrew&bg_color=0d1117&title_color=39d353&icon_color=26a641&text_color=c9d1d9&ring_color=39d353&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/ileanasaintpaul/Moonbrew"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ileanasaintpaul&repo=Moonbrew&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
 </p>
 
 <h3 align="center">Stats</h3>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ileanasaintpaul&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39d353&icon_color=26a641&text_color=c9d1d9&ring_color=39d353&hide_border=true&rank_icon=github&border_radius=12" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ileanasaintpaul&layout=compact&langs_count=8&bg_color=0d1117&title_color=39d353&icon_color=26a641&text_color=c9d1d9&ring_color=39d353&hide_border=true&border_radius=12" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ileanasaintpaul&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=12" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ileanasaintpaul&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -39,4 +39,4 @@
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:006d32,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=120&section=footer" />
