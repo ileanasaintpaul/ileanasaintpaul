@@ -22,14 +22,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ileanasaintpaul/Moonbrew"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ileanasaintpaul&repo=Moonbrew&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/ileanasaintpaul/Moonbrew"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ileanasaintpaul&repo=Moonbrew&bg_color=0d1117&title_color=39d353&icon_color=26a641&text_color=c9d1d9&ring_color=39d353&hide_border=true&border_radius=12&description_lines_count=2" /></a>
 </p>
 
 <h3 align="center">Stats</h3>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ileanasaintpaul&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=12" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ileanasaintpaul&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ileanasaintpaul&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39d353&icon_color=26a641&text_color=c9d1d9&ring_color=39d353&hide_border=true&rank_icon=github&border_radius=12" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ileanasaintpaul&layout=compact&langs_count=8&bg_color=0d1117&title_color=39d353&icon_color=26a641&text_color=c9d1d9&ring_color=39d353&hide_border=true&border_radius=12" alt="Top languages" />
 </p>
 
 <p align="center">
