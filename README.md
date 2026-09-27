@@ -9,13 +9,13 @@
   <a href="mailto:ileana.saintpaul@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
 </p>
 
-<h3 align="center">Stack</h3>
+<h3 align="center"><code><h3 align="center">Stack</h3>gt;_ stack</code></h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,angular,react,cs,dotnet,git,unity&theme=dark" />
 </p>
 
-<h3 align="center">Projects</h3>
+<h3 align="center"><code>&gt;_ projects</code></h3>
 
 <p align="center">
   Right now most of my evenings go into <a href="https://github.com/ileanasaintpaul/Moonbrew"><b>Moonbrew</b></a>, a cozy farm-and-café life sim made with Unity.
@@ -25,7 +25,7 @@
   <a href="https://github.com/ileanasaintpaul/Moonbrew"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ileanasaintpaul&repo=Moonbrew&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=8aff9a&ring_color=00ff41&border_color=00ff41&border_radius=0&description_lines_count=2" /></a>
 </p>
 
-<h3 align="center">Stats</h3>
+<h3 align="center"><code>&gt;_ stats</code></h3>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ileanasaintpaul&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=8aff9a&ring_color=00ff41&border_color=00ff41&rank_icon=github&border_radius=0" alt="GitHub stats" />
@@ -39,4 +39,4 @@
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:006d32,100:0d1117&height=120&section=footer" />
+<img width="100%" src="./assets/footer.svg" alt="" />
