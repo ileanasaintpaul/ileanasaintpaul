@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=220&section=header&text=Ileana&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full%20stack%20developer%20%C2%B7%20Angular%20%26%20C%23%20%C2%B7%20Toulouse&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=220&section=header&text=Ileana&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full%20stack%20developer%20%C2%B7%20Angular%20%2F%20C%23%20%C2%B7%20Toulouse&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&lines=Angular+on+the+front%2C+C%23+on+the+back;Building+full+stack+apps+with+.NET;Making+games+with+Unity+on+the+side" alt="Typing intro" />
