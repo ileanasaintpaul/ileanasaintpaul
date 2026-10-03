@@ -15,6 +15,19 @@
   <img src="https://skillicons.dev/icons?i=ts,js,angular,react,cs,dotnet,git,unity&theme=dark" />
 </p>
 
+<h3 align="center">Projects</h3>
+
+<p align="center">
+  Right now most of my evenings go into <a href="https://github.com/ileanasaintpaul/Moonbrew"><b>Moonbrew</b></a>, a cozy farm-and-café life sim made with Unity.
+</p>
+
+<p align="center">
+  <a href="https://github.com/ileanasaintpaul/Moonbrew"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ileanasaintpaul&repo=Moonbrew&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+  <br />
+  <a href="https://github.com/ileanasaintpaul/pup-track"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ileanasaintpaul&repo=pup-track&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/ileanasaintpaul/cosmic-garden-tycoon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ileanasaintpaul&repo=cosmic-garden-tycoon&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+</p>
+
 <h3 align="center">Stats</h3>
 
 <p align="center">
