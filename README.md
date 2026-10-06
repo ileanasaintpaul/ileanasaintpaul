@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ileana</h1>
-<h3 align="center">A full stack developer from Toulouse</h3>
-  
-- 🚀 I am a huge fan of science fiction novels
+### Hey, I'm Ileana
 
-- 🎯 Currently, I am learning Angular
+Backend developer based in Toulouse. These days it's all C# and .NET: APIs, data, the parts nobody sees but everything depends on. I came from full stack, so I still know my way around Angular and React when needed, and I've been poking at Unity on the side.
 
-- ✨ You can view my professional background on my [LinkedIn profile](https://www.linkedin.com/in/ileana-saint-paul)
-  
-- 📫 How to reach me **ileana.saintpaul@gmail.com**
+[LinkedIn](https://www.linkedin.com/in/ileana-saint-paul) · [ileana.saintpaul@gmail.com](mailto:ileana.saintpaul@gmail.com)
 
+---
 #### 📊 GitHub Stats:
 
 <div align="center">
