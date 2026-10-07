@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ileana-saint-paul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ileana.saintpaul@gmail.com"><img src="https://img.shields.io/badge/Email-bb9af7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ileanasaintpaul&style=for-the-badge&color=7aa2f7&label=Profile+views" />
 </p>
 
 <br />
