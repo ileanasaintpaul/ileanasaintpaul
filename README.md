@@ -5,13 +5,19 @@ Backend developer based in Toulouse. These days it's all C# and .NET: APIs, data
 [LinkedIn](https://www.linkedin.com/in/ileana-saint-paul) · [ileana.saintpaul@gmail.com](mailto:ileana.saintpaul@gmail.com)
 
 ---
-#### 📊 GitHub Stats:
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ileanasaintpaul&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ileanasaintpaul&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ileanasaintpaul&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ileanasaintpaul&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ileanasaintpaul&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
 
 #### 💻 Tech Stack :
 
