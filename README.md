@@ -9,19 +9,6 @@
   <a href="mailto:ileana.saintpaul@gmail.com"><img src="https://img.shields.io/badge/Email-bb9af7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<br />
-
-```csharp
-public class Ileana : Developer
-{
-    public string Location  => "Toulouse, FR";
-    public string Role      => "Backend developer";
-    public string[] Daily   => ["C#", ".NET", "Node.js"];
-    public string[] Front   => ["Angular", "React", "TypeScript"];
-    public string SideQuest => "Unity";
-}
-```
-
 <h3 align="center">Stack</h3>
 
 <p align="center">
