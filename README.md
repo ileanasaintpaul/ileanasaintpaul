@@ -34,8 +34,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ileanasaintpaul/ileanasaintpaul/output/snake-dark.svg" />
-    <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ileanasaintpaul/ileanasaintpaul/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ileanasaintpaul/ileanasaintpaul/output/snake-dark.svg?v=violet" />
+    <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ileanasaintpaul/ileanasaintpaul/output/snake.svg?v=violet" />
   </picture>
 </p>
 
