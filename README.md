@@ -12,11 +12,7 @@
 <h3 align="center">Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs&theme=dark" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=ts,js,angular,react,html,css,sass&theme=dark" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=git,unity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,angular,react,cs,dotnet,git,unity&theme=dark" />
 </p>
 
 <h3 align="center">Stats</h3>
