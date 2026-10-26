@@ -9,7 +9,7 @@
   <a href="mailto:ileana.saintpaul@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
 </p>
 
-<h3 align="center"><code><h3 align="center">Stack</h3>gt;_ stack</code></h3>
+<h3 align="center"><code>&gt;_ stack</code></h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,angular,react,cs,dotnet,git,unity&theme=dark" />
