@@ -23,13 +23,14 @@ Backend developer based in Toulouse. These days it's all C# and .NET: APIs, data
 
 ### Stack
 
-| | |
-|---|---|
-| **Back** | <img src="https://skillicons.dev/icons?i=cs,dotnet" /> |
-| **Also used** | <img src="https://skillicons.dev/icons?i=nodejs,express,py,java" /> &nbsp; + Socket.io |
-| **Front** | <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,react" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=swift" /> |
-| **Testing** | <img src="https://skillicons.dev/icons?i=jest" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,figma,notion" /> |
-| **Learning right now** | <img src="https://skillicons.dev/icons?i=unity,graphql" /> |
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=ts,js,angular,react,html,css,sass" />
+
+**Tools & side projects**
+
+<img src="https://skillicons.dev/icons?i=git,unity" />
