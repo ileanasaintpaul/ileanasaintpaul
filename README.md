@@ -25,20 +25,6 @@
   <a href="https://github.com/ileanasaintpaul/Moonbrew"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ileanasaintpaul&repo=Moonbrew&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
 </p>
 
-<details>
-<summary><b>On the workbench</b> — hardware and side ideas I'm prototyping</summary>
-<br />
-
-- [**sprout**](https://github.com/ileanasaintpaul/sprout) — a plant pot with an OLED face that tells your smart home how it feels
-- [**macro-deck**](https://github.com/ileanasaintpaul/macro-deck) — a physical button deck for Discord, OBS and Spotify
-- [**pocket-play**](https://github.com/ileanasaintpaul/pocket-play) — a handheld that streams your PC games
-- [**ghost-cam**](https://github.com/ileanasaintpaul/ghost-cam) — a smart camera where the video never leaves the device
-- [**guess-my-draw**](https://github.com/ileanasaintpaul/guess-my-draw) — draw something, an on-device model guesses it live
-- [**read-track**](https://github.com/ileanasaintpaul/read-track) — a reading tracker with Letterboxd-style ratings
-- [**tetris-multi**](https://github.com/ileanasaintpaul/tetris-multi) — turn-based Tetris where everyone builds on the same board
-
-</details>
-
 <h3 align="center">Stats</h3>
 
 <p align="center">
