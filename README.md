@@ -23,9 +23,6 @@
 
 <p align="center">
   <a href="https://github.com/ileanasaintpaul/Moonbrew"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ileanasaintpaul&repo=Moonbrew&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
-  <br />
-  <a href="https://github.com/ileanasaintpaul/pup-track"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ileanasaintpaul&repo=pup-track&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
-  <a href="https://github.com/ileanasaintpaul/cosmic-garden-tycoon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ileanasaintpaul&repo=cosmic-garden-tycoon&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
 </p>
 
 <details>
